@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://darkscripts.space/scripts/c4d34b8d32.lua', true))()
+loadstring(game:HttpGet('https://darkscripts.space/scripts/0e6b958a40.lua', true))()
